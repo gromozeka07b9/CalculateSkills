@@ -1,0 +1,6 @@
+C:\projects\ExcelCalc\ExcelCalc\bin\Debug\ExcelCalc.exe.config
+C:\projects\ExcelCalc\ExcelCalc\bin\Debug\ExcelCalc.exe
+C:\projects\ExcelCalc\ExcelCalc\bin\Debug\ExcelCalc.pdb
+C:\projects\ExcelCalc\ExcelCalc\obj\Debug\ExcelCalc.csprojResolveAssemblyReference.cache
+C:\projects\ExcelCalc\ExcelCalc\obj\Debug\ExcelCalc.exe
+C:\projects\ExcelCalc\ExcelCalc\obj\Debug\ExcelCalc.pdb
